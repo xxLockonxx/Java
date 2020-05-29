@@ -15,9 +15,7 @@ public class Example {
 		InterfaceC ic = impl;
 		ic.methodA();
 		ic.methodB();
-		
-		
-		
+		ic.methodC();
 		
 	}
 }
